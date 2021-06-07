@@ -1,2 +1,2 @@
 # learn.py
-It introduction to python
+It introduction to python coding by a stater
